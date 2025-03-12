@@ -1,5 +1,6 @@
 {
-  "name": "portfolio-js",
+  "homepage": "https://Hardik202003.github.io/portfolio-js",
+ "name": "portfolio-js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,11 +16,13 @@
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.3.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "styled-components": "^6.1.15",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
