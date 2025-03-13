@@ -74,7 +74,7 @@ const About = () => {
             <Skills>
               <li>JavaScript (ES6+)</li>
               <li>React</li>
-              <li>Node.js</li>
+              <li>Tailwind CSS</li>
               <li>Python</li>
               <li>Express</li>
               <li>MongoDB</li>
