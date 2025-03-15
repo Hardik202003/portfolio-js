@@ -86,18 +86,18 @@ const ProjectTech = styled.ul`
 
 const projectsData = [
   {
-    title: 'E-commerce Platform',
-    description: 'A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration.',
-    tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Stripe'],
-    github: 'https://github.com',
-    external: 'https://example.com',
+    title: 'Portfolio-js',
+    description: 'A modern, responsive portfolio website built with React designed to showcase projects, skills, and experiences. The platform features a clean UI, seamless navigation, and dynamic content fetching to enhance user engagement..',
+    tech: ['React', 'ReactDOM', 'React Script' ],
+    github: 'https://github.com/Hardik202003/portfolio-js.git',
+    external: 'https://hardik202003.github.io/portfolio-js',
   },
   {
     title: 'Task Management App',
     description: 'A task management application with drag-and-drop functionality, task categorization, and user collaboration features.',
     tech: ['React', 'Redux', 'Firebase', 'Material-UI'],
-    github: 'https://github.com',
-    external: 'https://example.com',
+    github: 'https://github.com/Hardik202003/task-manager',
+    external: 'https://Hardik202003.github.io/task-manager',
   },
   {
     title: 'Weather Dashboard',
@@ -110,8 +110,8 @@ const projectsData = [
     title: 'Social Media Dashboard',
     description: 'A social media dashboard that aggregates data from multiple platforms and provides analytics and scheduling capabilities.',
     tech: ['React', 'Chart.js', 'Node.js', 'Express'],
-    github: 'https://github.com',
-    external: 'https://example.com',
+    github: 'https://github.com/Hardik202003/SocialPro.git',
+    external: 'https://hardik202003.github.io/SocialPro/',
   },
   {
     title: 'Recipe Finder App',
