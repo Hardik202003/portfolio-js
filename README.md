@@ -27,10 +27,6 @@ Visit the live website: [https://hardik202003.github.io/portfolio-js/](https://h
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v14.0.0 or later)
-- npm (v6.0.0 or later)
 
 ### Installation
 
